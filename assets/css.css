@@ -1,0 +1,128 @@
+body {
+	background-color:  #eaf4f0;
+	font-family:  Arial, sans-serif;
+}
+
+.choropleth_text{
+	margin-top; 100px;
+	margin-bottom; 100px;
+	border: 200px;
+	height:100px;
+	padding-top: 10px;
+}
+
+.word_cloud{
+	width: 800px
+	height: 800px
+	padding-bottom: 100px
+	margin-bottom: 100px
+	border: 40px;
+	margin:20px;
+	padding-top: 100px;
+	padding-left: -10px;
+	float:left
+}
+
+.choropleth_graph{
+	width:1060px;
+	height:1060px;
+	background-color:#eaf4f0;
+	margin-right: 10px;
+	float:left;
+	margin-top: 10px;
+	padding-top; 100px
+	
+}
+
+.dropdown_text{
+	margin-top; 50px;
+	margin-bottom; 100px;
+	border: 200px;
+	height:100px;
+	padding-top: 10px;
+	padding-left : 10px
+}	
+
+
+
+.page_1_dropdown{
+width:1060px;
+height:130px;
+background-color:#eaf4f0;
+margin-right:10px
+border: 10px solid #80ced6;
+border-radius: 10px;
+float:left;
+padding-bottom: 50px;
+padding-left : 10px
+}
+	
+.prevalence_graph{
+  width:1060px;
+  height:700px;
+background-color:#eaf4f0;
+padding-left : 10px
+
+}
+.qualification_bar{
+  width:1060px;
+  height:700px;
+background-color:#eaf4f0;
+padding-left : 10px
+
+}
+.wage_graph {
+  width:1060px;
+  height:700px;
+background-color:#eaf4f0;
+padding-left : 10px
+
+}
+.graph_group{
+	float:left;
+	
+}
+
+.drop_two{
+	float:left;
+	width:1060px;
+	margin:auto;
+	margin-bottom:20px;
+	
+
+	
+}
+.drop_one{
+	float:left;
+	width:1060px;
+	margin:auto;
+	padding-right:20px;
+	margin-bottom:20px;
+	
+
+}
+
+.pie_indicator_Wage{
+	background-color:#eaf4f0;
+}
+
+.pie_indicator_prevalence{
+	background-color:#eaf4f0;
+}
+
+.pie_indicator_qualification{
+	background-color:#eaf4f0;
+}
+	
+	
+	
+
+
+.graphs_page_two{
+	margin: 0 auto;
+
+.page_two{
+	float:left;
+	margin: 0 auto;
+}
+	
